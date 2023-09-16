@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react-dev",
+  "version": "1.0.0",
+  "description": "this is Namaste react by Akshay Saini",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikm94/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikm94/namaste-react/issues"
+  },
+  "homepage": "https://github.com/karthikm94/namaste-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 5 chrome version"
+  ],
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
