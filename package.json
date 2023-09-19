@@ -20,7 +20,8 @@
   "homepage": "https://github.com/karthikm94/namaste-react#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0"
   },
   "browserlist": [
     "last 5 chrome version"
